@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: '', // Usually your GitHub org/user name.
-  projectName: 'site', // Usually your repo name.
+  projectName: 'Public Page', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Logs',
@@ -55,7 +55,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/chengguizi/site',
+          href: 'https://github.com/chengguizi/chengguizi.github.io',
           label: 'GitHub',
           position: 'right',
         },
@@ -119,7 +119,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/chengguizi/site',
+            'https://github.com/chengguizi/chengguizi.github.io',
           // showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -127,7 +127,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/chengguizi/site',
+            'https://github.com/chengguizi/chengguizi.github.io',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

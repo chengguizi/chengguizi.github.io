@@ -23,7 +23,7 @@ deploy:
   provider: pages
   local_dir: build
   skip_cleanup: true
-  repo: chengguizi/site
+  repo: chengguizi/chengguizi.github.io
   target-branch: master
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: false # true
