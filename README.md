@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chengguizi/site.svg?branch=docs)](https://travis-ci.org/chengguizi/site)
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
@@ -35,3 +37,4 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ### Setup Travis CI
 
+Must generate token for each repository
