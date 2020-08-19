@@ -3,7 +3,13 @@ hide_title: true
 sidebar_label: Fan Related
 ---
 
-# Fan Related
+## Check Fan on New L4T
+
+``` bash
+cd /sys/devices/pwm-fan/target-pwm
+```
+
+## Fan Related (Old Location)
 
 ```bash
 sudo -s 

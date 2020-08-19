@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/chengguizi/site.svg?branch=docs)](https://travis-ci.org/chengguizi/site)
+[![Build Status](https://travis-ci.org/chengguizi/chengguizi.github.io.svg?branch=docs)](https://travis-ci.org/chengguizi/chengguizi.github.io)
 
 # Website
 
