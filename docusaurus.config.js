@@ -9,6 +9,8 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: '', // Usually your GitHub org/user name.
   projectName: 'Public Page', // Usually your repo name.
+  onBrokenLinks: 'warn',
+
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css',
